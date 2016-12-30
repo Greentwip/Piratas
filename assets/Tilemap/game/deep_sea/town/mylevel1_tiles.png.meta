@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e1d79592-a6b2-457a-a16a-da81d4703aa1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mylevel1_tiles": {
+      "ver": "1.0.3",
+      "uuid": "8e451db3-c4f1-4694-9489-2785b0297bdb",
+      "rawTextureUuid": "e1d79592-a6b2-457a-a16a-da81d4703aa1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 768,
+      "rawWidth": 256,
+      "rawHeight": 768,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

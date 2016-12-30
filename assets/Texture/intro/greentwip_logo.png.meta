@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e6746c27-d02c-4c74-bda5-8431db02e796",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "greentwip_logo": {
+      "ver": "1.0.3",
+      "uuid": "e01ad201-cd2e-4006-8cca-5baa29a36507",
+      "rawTextureUuid": "e6746c27-d02c-4c74-bda5-8431db02e796",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
